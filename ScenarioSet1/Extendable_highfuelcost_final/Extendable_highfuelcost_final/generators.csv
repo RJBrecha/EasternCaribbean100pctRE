@@ -1,0 +1,46 @@
+name,bus,p_nom,p_nom_extendable,marginal_cost,capital_cost,p_nom_max,p_nom_min,build_year,min_up_time,min_down_time,up_time_before,down_time_before,p_nom_opt
+SKN diesel,SaintKittsNevis,0.0,True,240.0,190000.0,inf,0.0,0,0,0,1,0,17.199151943462894
+SKN solar pv,SaintKittsNevis,1.5,True,0.0,75772.0,350.0,1.5,0,0,0,1,0,14.226699662506496
+SKN wind,SaintKittsNevis,2.2,True,0.0,116276.0,50.0,2.2,0,0,0,1,0,32.8150765606596
+SKN geothermal,SaintKittsNevis,0.0,True,20.0,493350.0,30.0,10.0,0,0,0,1,0,21.980848056537106
+ATG diesel,Antigua,0.0,True,240.0,190000.0,inf,0.0,0,0,0,1,0,62.87
+ATG wind,Antigua,0.0,True,0.0,116276.0,50.0,0.0,0,0,0,1,0,50.0
+ATG solar pv,Antigua,6.0,True,0.0,75772.0,370.0,9.6,0,0,0,1,0,85.80299785867238
+MSR diesel,Montserrat,0.0,True,240.0,190000.0,inf,0.0,0,0,0,1,0,0.5100000000000002
+MSR geothermal,Montserrat,0.0,True,20.0,493350.0,5.0,1.5,0,0,0,1,0,2.03
+MSR solar pv,Montserrat,0.0,True,0.0,75772.0,133.0,0.25,0,0,0,1,0,0.4479768786127169
+GLP diesel,Guadeloupe,0.0,True,240.0,190000.0,inf,0.0,0,0,0,1,0,214.09999999999997
+GLP coal,Guadeloupe,0.0,True,100.0,95768.0,0.0,0.0,0,0,0,1,0,-0.0
+GLP hydro,Guadeloupe,10.5,True,10.0,160468.0,15.0,10.5,0,0,0,1,0,15.0
+GLP geothermal,Guadeloupe,14.7,True,20.0,493350.0,50.0,14.7,0,0,0,1,0,50.0
+GLP wind,Guadeloupe,22.1,True,0.0,116276.0,300.0,22.1,0,0,0,1,0,300.0
+GLP solar pv,Guadeloupe,70.0,True,0.0,75772.0,2200.0,70.0,0,0,0,1,0,214.8048452220727
+GLP biomass,Guadeloupe,3.7,True,140.0,476000.0,10.0,3.7,0,0,0,1,0,3.7
+DMA diesel,Dominica,0.0,True,240.0,190000.0,inf,0.0,0,0,0,1,0,-0.0
+DMA hydro,Dominica,6.6,True,10.0,160468.0,8.0,6.6,0,0,0,1,0,6.6
+DMA wind,Dominica,0.0,True,0.0,116276.0,150.0,0.0,0,0,0,1,0,-0.0
+DMA solar pv,Dominica,0.0,True,0.0,75772.0,1000.0,0.0,0,0,0,1,0,-0.0
+DMA geothermal,Dominica,0.0,True,20.0,493350.0,15.0,15.0,0,0,0,1,0,15.0
+MTQ diesel,Martinique,0.0,True,240.0,190000.0,inf,0.0,0,0,0,1,0,161.20000000000002
+MTQ wind,Martinique,13.0,True,0.0,116276.0,200.0,13.0,0,0,0,1,0,200.0
+MTQ solar pv,Martinique,76.7,True,0.0,75772.0,1500.0,76.7,0,0,0,1,0,211.72413793103448
+MTQ biomass,Martinique,41.4,True,140.0,476000.0,41.4,41.4,0,0,0,1,0,41.4
+MTQ geothermal,Martinique,0.0,True,20.0,493350.0,50.0,0.0,0,0,0,1,0,50.0
+LCA diesel,SaintLucia,0.0,True,240.0,190000.0,inf,0.0,0,0,0,1,0,37.280354695843045
+LCA wind,SaintLucia,0.0,True,0.0,116276.0,100.0,0.0,0,0,0,1,0,75.1227495908347
+LCA solar pv,SaintLucia,6.0,True,0.0,75772.0,800.0,6.0,0,0,0,1,0,24.380882422430403
+LCA geothermal,SaintLucia,0.0,True,20.0,493350.0,30.0,0.0,0,0,0,1,0,26.7644898213419
+BRB diesel,Barbados,0.0,True,240.0,190000.0,inf,0.0,0,0,0,1,0,156.35000000000002
+BRB solar pv,Barbados,67.0,True,0.0,75772.0,570.0,67.0,0,0,0,1,0,284.55528846153845
+BRB wind,Barbados,0.0,True,0.0,116276.0,75.0,0.0,0,0,0,1,0,75.0
+BRB biomass,Barbados,0.0,True,140.0,476000.0,10.0,0.0,0,0,0,1,0,10.0
+SVG diesel,SaintVincentGrenadines,0.0,True,240.0,190000.0,inf,0.0,0,0,0,1,0,11.684444203670594
+SVG solar pv,SaintVincentGrenadines,1.8,True,0.0,75772.0,460.0,1.8,0,0,0,1,0,8.716615201256834
+SVG wind,SaintVincentGrenadines,0.0,True,0.0,116276.0,60.0,0.0,0,0,0,1,0,24.709416063227216
+SVG geothermal,SaintVincentGrenadines,0.0,True,20.0,493350.0,15.0,0.0,0,0,0,1,0,4.536477839777047
+SVG hydro,SaintVincentGrenadines,5.6,True,10.0,160468.0,8.0,5.6,0,0,0,1,0,8.0
+GRD diesel,Grenada,0.0,True,240.0,190000.0,inf,0.0,0,0,0,1,0,17.897278911564626
+GRD solar pv,Grenada,2.0,True,0.0,75772.0,470.0,2.0,0,0,0,1,0,2.7385811467444046
+GRD wind,Grenada,0.0,True,0.0,116276.0,60.0,0.0,0,0,0,1,0,44.21768707482993
+GRD geothermal,Grenada,0.0,True,20.0,493350.0,20.0,0.0,0,0,0,1,0,17.308843537414965
+GRD hydro,Grenada,0.0,True,10.0,160468.0,0.0,0.0,0,0,0,1,0,-0.0
