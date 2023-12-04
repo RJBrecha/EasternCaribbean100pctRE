@@ -1,0 +1,11 @@
+name,bus,e_nom_extendable,capital_cost,e_cyclic,carrier,build_year,e_nom_opt
+ATG H2 Tank,Antigua Hydrogen,True,1785.0,True,AC,0,5020.150641033008
+BRB H2 Tank,Barbados Hydrogen,True,1785.0,True,AC,0,33856.088833333306
+GLP H2 Tank,Guadeloupe Hydrogen,True,1785.0,True,AC,0,13575.902319527377
+MTQ H2 Tank,Martinique Hydrogen,True,1785.0,True,AC,0,4512.207666134491
+LCA H2 Tank,SaintLucia Hydrogen,True,1785.0,True,AC,0,1365.7629786024045
+SKN H2 Tank,SaintKittsNevis Hydrogen,True,1785.0,True,AC,0,592.9593444854023
+SVG H2 Tank,SaintVincentGrenadines Hydrogen,True,1785.0,True,AC,0,384.78405248052843
+MSR H2 Tank,Montserrat Hydrogen,True,1785.0,True,AC,0,14.843750892446943
+GRD H2 Tank,Grenada Hydrogen,True,1785.0,True,AC,0,424.9274063048938
+DMA H2 Tank,Dominica Hydrogen,True,1785.0,True,AC,0,-0.0
