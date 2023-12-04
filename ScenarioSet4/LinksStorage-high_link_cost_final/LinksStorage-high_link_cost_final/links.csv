@@ -1,0 +1,11 @@
+name,bus0,bus1,p_min_pu,p_nom_extendable,length,capital_cost,p_nom_max,carrier,build_year,p_nom_opt
+SKN MSR link,SaintKittsNevis,Montserrat,-1.0,True,81.0,152895.6,2.5,AC,0,0.6065575819052133
+MSR ATG link,Montserrat,Antigua,-1.0,True,54.0,101930.4,2.5,AC,0,2.5
+ATG GLP link,Antigua,Guadeloupe,-1.0,True,92.0,173659.2,60.0,AC,0,17.934911243236314
+GLP DMA link,Guadeloupe,Dominica,-1.0,True,96.0,181209.6,20.0,AC,0,13.082827377825113
+DMA MTQ link,Dominica,Martinique,-1.0,True,94.0,177434.4,20.0,AC,0,2.298231468196479
+MTQ LCA link,Martinique,SaintLucia,-1.0,True,82.0,154783.2,60.0,AC,0,13.477417344614125
+LCA SVG link,SaintLucia,SaintVincentGrenadines,-1.0,True,44.0,83054.4,25.0,AC,0,6.275598473272615
+SVG GRD link,SaintVincentGrenadines,Grenada,-1.0,True,112.0,211411.2,25.0,AC,0,8.652400058720286
+SVG BRB link,SaintVincentGrenadines,Barbados,-1.0,True,170.0,320892.0,25.0,AC,0,25.0
+LCA BRB link,SaintLucia,Barbados,-1.0,True,150.0,283140.0,60.0,AC,0,18.76432432432432
