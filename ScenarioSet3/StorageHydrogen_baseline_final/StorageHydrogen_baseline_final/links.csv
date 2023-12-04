@@ -1,0 +1,21 @@
+name,bus0,bus1,efficiency,p_nom_extendable,capital_cost,carrier,build_year,p_nom_opt
+ATG Electrolyzer,Antigua,Antigua Hydrogen,0.7,True,85000.0,AC,0,13.056734731462498
+ATG Fuel Cell,Antigua Hydrogen,Antigua,0.6,True,42500.0,AC,0,30.26211158855264
+BRB Electrolyzer,Barbados,Barbados Hydrogen,0.7,True,85000.0,AC,0,63.65851190476165
+BRB Fuel Cell,Barbados Hydrogen,Barbados,0.6,True,42500.0,AC,0,72.9405405405404
+GLP Electrolyzer,Guadeloupe,Guadeloupe Hydrogen,0.7,True,85000.0,AC,0,28.170431049372652
+GLP Fuel Cell,Guadeloupe Hydrogen,Guadeloupe,0.6,True,42500.0,AC,0,79.03765463199345
+MTQ Electrolyzer,Martinique,Martinique Hydrogen,0.7,True,85000.0,AC,0,25.10844841531855
+MTQ Fuel Cell,Martinique Hydrogen,Martinique,0.6,True,42500.0,AC,0,56.628082857742214
+LCA Electrolyzer,SaintLucia,SaintLucia Hydrogen,0.7,True,85000.0,AC,0,11.481533660795813
+LCA Fuel Cell,SaintLucia Hydrogen,SaintLucia,0.6,True,42500.0,AC,0,17.781535478019382
+SVG Electrolyzer,SaintVincentGrenadines,SaintVincentGrenadines Hydrogen,0.7,True,85000.0,AC,0,4.203671319147708
+SVG Fuel Cell,SaintVincentGrenadines Hydrogen,SaintVincentGrenadines,0.6,True,42500.0,AC,0,5.042108761890208
+GRD Electrolyzer,Grenada,Grenada Hydrogen,0.7,True,85000.0,AC,0,2.6047118322193983
+GRD Fuel Cell,Grenada Hydrogen,Grenada,0.6,True,42500.0,AC,0,6.383846082585896
+SKN Electrolyzer,SaintKittsNevis,SaintKittsNevis Hydrogen,0.7,True,85000.0,AC,0,1.532605427079963
+SKN Fuel Cell,SaintKittsNevis Hydrogen,SaintKittsNevis,0.6,True,42500.0,AC,0,5.671188350912481
+MSR Electrolyzer,Montserrat,Montserrat Hydrogen,0.7,True,85000.0,AC,0,0.06660877720014885
+MSR Fuel Cell,Montserrat Hydrogen,Montserrat,0.6,True,42500.0,AC,0,0.20255197105130843
+DMA Electrolyzer,Dominica,Dominica Hydrogen,0.7,True,85000.0,AC,0,-0.0
+DMA Fuel Cell,Dominica Hydrogen,Dominica,0.6,True,42500.0,AC,0,-0.0
