@@ -1,0 +1,21 @@
+name,bus0,bus1,carrier,efficiency,build_year,p_nom_extendable,capital_cost,min_up_time,min_down_time,up_time_before,down_time_before,p_nom_opt
+ATG Electrolyzer,Antigua,Antigua Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,82.7410335341387
+ATG Fuel Cell,Antigua Hydrogen,Antigua,AC,0.6,0,True,142000.0,0,0,1,0,53.697236531891306
+BRB Electrolyzer,Barbados,Barbados Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,167.03863347976065
+BRB Fuel Cell,Barbados Hydrogen,Barbados,AC,0.6,0,True,142000.0,0,0,1,0,94.18586168654076
+DMA Electrolyzer,Dominica,Dominica Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,-0.0
+DMA Fuel Cell,Dominica Hydrogen,Dominica,AC,0.6,0,True,142000.0,0,0,1,0,-0.0
+GLP Electrolyzer,Guadeloupe,Guadeloupe Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,149.26183882788368
+GLP Fuel Cell,Guadeloupe Hydrogen,Guadeloupe,AC,0.6,0,True,142000.0,0,0,1,0,164.38520226885336
+GRD Electrolyzer,Grenada,Grenada Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,20.25769706408972
+GRD Fuel Cell,Grenada Hydrogen,Grenada,AC,0.6,0,True,142000.0,0,0,1,0,12.616933892722624
+LCA Electrolyzer,SaintLucia,SaintLucia Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,55.4179443926355
+LCA Fuel Cell,SaintLucia Hydrogen,SaintLucia,AC,0.6,0,True,142000.0,0,0,1,0,39.35966021895216
+MSR Electrolyzer,Montserrat,Montserrat Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,0.36950077814487503
+MSR Fuel Cell,Montserrat Hydrogen,Montserrat,AC,0.6,0,True,142000.0,0,0,1,0,0.3889036584165859
+MTQ Electrolyzer,Martinique,Martinique Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,150.78348932525978
+MTQ Fuel Cell,Martinique Hydrogen,Martinique,AC,0.6,0,True,142000.0,0,0,1,0,141.3750229538869
+SKN Electrolyzer,SaintKittsNevis,SaintKittsNevis Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,5.549681953716213
+SKN Fuel Cell,SaintKittsNevis Hydrogen,SaintKittsNevis,AC,0.6,0,True,142000.0,0,0,1,0,7.064210715187357
+SVG Electrolyzer,SaintVincentGrenadines,SaintVincentGrenadines Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,9.710287107244774
+SVG Fuel Cell,SaintVincentGrenadines Hydrogen,SaintVincentGrenadines,AC,0.6,0,True,142000.0,0,0,1,0,8.795239665157396

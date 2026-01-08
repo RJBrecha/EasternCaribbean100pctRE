@@ -1,0 +1,21 @@
+name,bus0,bus1,carrier,efficiency,build_year,p_nom_extendable,capital_cost,min_up_time,min_down_time,up_time_before,down_time_before,p_nom_opt
+ATG Electrolyzer,Antigua,Antigua Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,62.959305760437346
+ATG Fuel Cell,Antigua Hydrogen,Antigua,AC,0.6,0,True,142000.0,0,0,1,0,45.95728972908074
+BRB Electrolyzer,Barbados,Barbados Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,104.20185740019718
+BRB Fuel Cell,Barbados Hydrogen,Barbados,AC,0.6,0,True,142000.0,0,0,1,0,70.76167782365022
+DMA Electrolyzer,Dominica,Dominica Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,-0.0
+DMA Fuel Cell,Dominica Hydrogen,Dominica,AC,0.6,0,True,142000.0,0,0,1,0,-0.0
+GLP Electrolyzer,Guadeloupe,Guadeloupe Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,105.81778066959926
+GLP Fuel Cell,Guadeloupe Hydrogen,Guadeloupe,AC,0.6,0,True,142000.0,0,0,1,0,120.63817227410657
+GRD Electrolyzer,Grenada,Grenada Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,20.121586737630707
+GRD Fuel Cell,Grenada Hydrogen,Grenada,AC,0.6,0,True,142000.0,0,0,1,0,12.607766410265251
+LCA Electrolyzer,SaintLucia,SaintLucia Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,51.80912859128278
+LCA Fuel Cell,SaintLucia Hydrogen,SaintLucia,AC,0.6,0,True,142000.0,0,0,1,0,39.538599545866454
+MSR Electrolyzer,Montserrat,Montserrat Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,0.35708031213760266
+MSR Fuel Cell,Montserrat Hydrogen,Montserrat,AC,0.6,0,True,142000.0,0,0,1,0,0.3996204386837888
+MTQ Electrolyzer,Martinique,Martinique Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,132.02301811679538
+MTQ Fuel Cell,Martinique Hydrogen,Martinique,AC,0.6,0,True,142000.0,0,0,1,0,141.3996703536321
+SKN Electrolyzer,SaintKittsNevis,SaintKittsNevis Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,5.732084915962707
+SKN Fuel Cell,SaintKittsNevis Hydrogen,SaintKittsNevis,AC,0.6,0,True,142000.0,0,0,1,0,7.100038455883848
+SVG Electrolyzer,SaintVincentGrenadines,SaintVincentGrenadines Hydrogen,AC,0.7,0,True,142000.0,0,0,1,0,9.71148483336161
+SVG Fuel Cell,SaintVincentGrenadines Hydrogen,SaintVincentGrenadines,AC,0.6,0,True,142000.0,0,0,1,0,8.79566824511563

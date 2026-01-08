@@ -1,0 +1,11 @@
+name,bus,p_nom_extendable,p_nom_max,capital_cost,build_year,cyclic_state_of_charge,max_hours,p_nom_opt
+ATG Storage,Antigua,True,70.0,120885.0,0,True,6.0,70.0
+BRB Storage,Barbados,True,200.0,120885.0,0,True,6.0,200.0
+DMA Storage,Dominica,True,20.0,120885.0,0,True,6.0,20.0
+GLP Storage,Guadeloupe,True,320.0,120885.0,0,True,6.0,320.0
+GRD Storage,Grenada,True,45.0,120885.0,0,True,6.0,45.0
+LCA Storage,SaintLucia,True,75.0,120885.0,0,True,6.0,75.0
+MSR Storage,Montserrat,True,3.0,120885.0,0,True,6.0,0.37861594202898513
+MTQ Storage,Martinique,True,250.0,120885.0,0,True,6.0,250.0
+SKN Storage,SaintKittsNevis,True,45.0,120885.0,0,True,6.0,31.50596998025465
+SVG Storage,SaintVincentGrenadines,True,30.0,120885.0,0,True,6.0,30.0

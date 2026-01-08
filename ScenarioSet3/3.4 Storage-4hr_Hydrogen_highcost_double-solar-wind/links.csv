@@ -1,0 +1,21 @@
+name,bus0,bus1,carrier,efficiency,build_year,p_nom_extendable,capital_cost,min_up_time,min_down_time,up_time_before,down_time_before,p_nom_opt
+ATG Electrolyzer,Antigua,Antigua Hydrogen,AC,0.7,0,True,284000.0,0,0,1,0,82.74103353413865
+ATG Fuel Cell,Antigua Hydrogen,Antigua,AC,0.6,0,True,284000.0,0,0,1,0,53.69723653189132
+BRB Electrolyzer,Barbados,Barbados Hydrogen,AC,0.7,0,True,284000.0,0,0,1,0,167.03863347976065
+BRB Fuel Cell,Barbados Hydrogen,Barbados,AC,0.6,0,True,284000.0,0,0,1,0,94.18586168654075
+GLP Electrolyzer,Guadeloupe,Guadeloupe Hydrogen,AC,0.7,0,True,284000.0,0,0,1,0,127.31719609099869
+GLP Fuel Cell,Guadeloupe Hydrogen,Guadeloupe,AC,0.6,0,True,284000.0,0,0,1,0,164.71201458382058
+MTQ Electrolyzer,Martinique,Martinique Hydrogen,AC,0.7,0,True,284000.0,0,0,1,0,81.86245765742828
+MTQ Fuel Cell,Martinique Hydrogen,Martinique,AC,0.6,0,True,284000.0,0,0,1,0,108.28999514903205
+LCA Electrolyzer,SaintLucia,SaintLucia Hydrogen,AC,0.7,0,True,284000.0,0,0,1,0,15.611986327178155
+LCA Fuel Cell,SaintLucia Hydrogen,SaintLucia,AC,0.6,0,True,284000.0,0,0,1,0,21.670994774642534
+SVG Electrolyzer,SaintVincentGrenadines,SaintVincentGrenadines Hydrogen,AC,0.7,0,True,284000.0,0,0,1,0,3.2126514383254254
+SVG Fuel Cell,SaintVincentGrenadines Hydrogen,SaintVincentGrenadines,AC,0.6,0,True,284000.0,0,0,1,0,3.997993435811743
+GRD Electrolyzer,Grenada,Grenada Hydrogen,AC,0.7,0,True,284000.0,0,0,1,0,7.294921784648649
+GRD Fuel Cell,Grenada Hydrogen,Grenada,AC,0.6,0,True,284000.0,0,0,1,0,6.924736904406083
+SKN Electrolyzer,SaintKittsNevis,SaintKittsNevis Hydrogen,AC,0.7,0,True,284000.0,0,0,1,0,0.802814609300439
+SKN Fuel Cell,SaintKittsNevis Hydrogen,SaintKittsNevis,AC,0.6,0,True,284000.0,0,0,1,0,3.135292896040652
+MSR Electrolyzer,Montserrat,Montserrat Hydrogen,AC,0.7,0,True,284000.0,0,0,1,0,0.03546270201214975
+MSR Fuel Cell,Montserrat Hydrogen,Montserrat,AC,0.6,0,True,284000.0,0,0,1,0,0.185674629310412
+DMA Electrolyzer,Dominica,Dominica Hydrogen,AC,0.7,0,True,284000.0,0,0,1,0,-0.0
+DMA Fuel Cell,Dominica Hydrogen,Dominica,AC,0.6,0,True,284000.0,0,0,1,0,-0.0
