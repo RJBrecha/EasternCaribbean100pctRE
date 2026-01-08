@@ -1,0 +1,12 @@
+name,bus0,bus1,carrier,build_year,p_nom_extendable,p_nom_max,p_min_pu,capital_cost,length,min_up_time,min_down_time,up_time_before,down_time_before,p_nom_opt
+SKN MSR link,SaintKittsNevis,Montserrat,AC,0,False,2.5,-1.0,129114.0,81.0,0,0,1,0,0.0
+MSR ATG link,Montserrat,Antigua,AC,0,False,2.5,-1.0,86076.0,54.0,0,0,1,0,0.0
+ATG GLP link,Antigua,Guadeloupe,AC,0,False,60.0,-1.0,146648.0,92.0,0,0,1,0,0.0
+GLP DMA link,Guadeloupe,Dominica,AC,0,False,20.0,-1.0,153024.0,96.0,0,0,1,0,0.0
+DMA MTQ link,Dominica,Martinique,AC,0,False,20.0,-1.0,149836.0,94.0,0,0,1,0,0.0
+MTQ LCA link,Martinique,SaintLucia,AC,0,False,60.0,-1.0,130708.0,82.0,0,0,1,0,0.0
+LCA SVG link,SaintLucia,SaintVincentGrenadines,AC,0,False,25.0,-1.0,70136.0,44.0,0,0,1,0,0.0
+SVG GRD link,SaintVincentGrenadines,Grenada,AC,0,False,25.0,-1.0,178528.0,112.0,0,0,1,0,0.0
+SVG BRB link,SaintVincentGrenadines,Barbados,AC,0,True,25.0,-1.0,270980.0,170.0,0,0,1,0,10.378352581259174
+LCA BRB link,SaintLucia,Barbados,AC,0,True,60.0,-1.0,239100.0,150.0,0,0,1,0,33.795802041141684
+SKN ATG link,SaintKittsNevis,Antigua,AC,0,True,30.0,-1.0,119550.0,75.0,0,0,1,0,20.5228647456964
